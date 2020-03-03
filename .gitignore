@@ -105,3 +105,6 @@ dmypy.json
 
 # Pycharm IDE Folders
 .idea
+
+# Jupyter Checkpoints
+.ipynb_checkpoints
