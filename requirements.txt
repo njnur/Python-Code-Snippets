@@ -1,0 +1,14 @@
+backcall
+colorama
+decorator
+ipython
+ipython-genutils
+jedi
+parso
+pickleshare
+prompt-toolkit
+Pygments
+six
+traitlets
+wcwidth
+jupyterlab
